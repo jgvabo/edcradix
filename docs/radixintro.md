@@ -34,7 +34,7 @@ For you own project, you may want to use feature branches (for the various parts
 
 If you want to move ahead using you own pace - feel free to do so ... support may be limited :)
 
->If you want to work actively with the example projet (this), I suggest forking it and rename it.
+>`If you want to work actively with the example projet (this), I suggest forking it (, rename it) and the clone that locally`
 
 ## Before start
 
@@ -145,6 +145,7 @@ A few commands & tasks: (examples in the `part7` branch):
   * Example file: https://github.com/larskaare/edcradix/blob/part7/radixconfig.yaml
   * Documentation: https://github.com/Statoil/radix-operator/blob/master/docs/radixconfig.md
   * `yml` files and their parsers are known to be very picky and unforgiving 
+  * Appname in radix config needs to be the same name used when creating the app in the console.
 * Do git add, commit and push to github.com (origin)
 * Generate Radix deployment key
   * `Keep out of code repository!`
