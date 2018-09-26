@@ -34,7 +34,16 @@ For you own project, you may want to use feature branches (for the various parts
 
 If you want to move ahead using you own pace - feel free to do so ... support may be limited :)
 
->`If you want to work actively with the example projet (this), I suggest forking it (, rename it) and the clone that locally`
+## Following the example project, branch by branch
+
+If you want to work actively with the example project (this) and follow the scripts for the branches then i suggest
+
+* Fork the original repo on github to your own account
+* Consider to rename the repo
+* Clone the repo locally
+
+When this is done, you can follow the script part by part - branch by branch. You do not want to merge from part branches to master :)
+
 
 ## Before start
 
@@ -57,6 +66,8 @@ A few commands & tasks:
 * add npm start to packet.json
 * Add files to git `git add .`
 * Commit files to git `git commit -m "your message"`
+
+The code is available in the `part1` branch.
 
 ## Part 2 - Consuming famous quotes using api
 
